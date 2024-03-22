@@ -3,6 +3,7 @@
 
 **Sagnik-2004/Sagnik-2004** is a ✨ _special_ ✨ repository because its 'null'🤣.
 
-- 🔭 I’m currently working on ... Arduino,Artificial Intelligence,Machine Learning,Internet od Things
+- 🔭 I’m currently working on ... Arduino,Machine Learning,Internet of Things,Web Development
  
  --> See ya!
+-->JUST FOLLOW 😎
