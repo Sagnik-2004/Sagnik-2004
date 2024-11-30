@@ -7,4 +7,6 @@
  
  --> See ya!
  
--->JUST FOLLOW 😎
+--> Contents Loading! 😎
+
+--> Basic Language Codes Available !
